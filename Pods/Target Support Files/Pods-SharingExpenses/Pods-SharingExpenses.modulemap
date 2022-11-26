@@ -1,0 +1,6 @@
+framework module Pods_SharingExpenses {
+  umbrella header "Pods-SharingExpenses-umbrella.h"
+
+  export *
+  module * { export * }
+}

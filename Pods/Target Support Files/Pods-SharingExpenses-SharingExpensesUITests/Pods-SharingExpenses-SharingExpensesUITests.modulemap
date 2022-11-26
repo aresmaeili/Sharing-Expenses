@@ -1,0 +1,6 @@
+framework module Pods_SharingExpenses_SharingExpensesUITests {
+  umbrella header "Pods-SharingExpenses-SharingExpensesUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
